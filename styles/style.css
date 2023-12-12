@@ -1,0 +1,26 @@
+.active{
+    background-color: #000000;
+    color: white !important;
+    border-radius: 20px;
+    padding: 1vh !important;
+}
+
+.img-fluid{
+    border-radius: 20px;
+    box-shadow: 0 0 10px #60ffb0;
+}
+
+p{
+    margin-top: 3vh;
+}
+
+h2{
+    margin-bottom: 3vh;
+}
+
+body{
+    background-image: url("https://media0.giphy.com/media/l1J9xRxf0x8zMnA4g/giphy.gif") !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
