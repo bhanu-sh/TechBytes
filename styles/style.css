@@ -24,3 +24,21 @@ body{
     background-size: cover;
     background-position: center;
 }
+
+.card{
+    background-color: #00000000 !important;
+}
+
+.hover-zoom{
+    transform: scale(1);
+    transition: 0.3s;
+}
+
+.hover-zoom:hover{
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+
+.min-vh{
+    min-height: 80vh;
+}
